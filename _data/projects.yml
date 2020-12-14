@@ -1,18 +1,17 @@
 - title: LiveGreen
   event: MLH Fellowship Explorer Sprint 5
   date: Fall 2020 - Batch 1
-
-- title: PomodoroTimer
-  event: MLH Fellowship Explorer Sprint 4
-  date: Fall 2020 - Batch 1
+  page-name: livegreen
 
 - title: DetectMeal
   event: MLH Fellowship Explorer Sprint 3
   date: Fall 2020 - Batch 1
+  page-name: sprint1
 
 - title: RecycleThis
   event: MLH Fellowship Explorer Sprint 2
   date: Fall 2020 - Batch 1
+  page-name: sprint1
 
 - title: Zusammen
   event: MLH Fellowship Explorer Sprint 1
