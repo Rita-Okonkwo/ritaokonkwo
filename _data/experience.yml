@@ -1,12 +1,14 @@
 - role: Explorer Fellow
   company: MLH Fellowship
   dates: October 2020 - December 2020
-  logo: fellowship.svg
+  page-name: mlh
   
 - role: Software Engineering Intern
   company: Dancom Technologies
   dates: September 2019 - January 2020
+  page-name: dancom
   
 - role: Software Engineering Intern
   company: Hotels.ng
   dates: September 2019 - November 2019
+  page-name: hng
