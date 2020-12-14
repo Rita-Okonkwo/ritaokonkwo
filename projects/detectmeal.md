@@ -1,5 +1,5 @@
 ---
-title: Sprint 1 Project
+title: Sprint 3 Project
 layout: page
 ---
 # DetectMeal
