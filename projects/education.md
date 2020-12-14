@@ -1,10 +1,10 @@
-# Country
+## Country
 Nigeria
 
-# Current Cumulative GPA
+## Current Cumulative GPA
 4.65/5.00
 
-# Relevant coursework
+#@ Relevant coursework
 - Telecommunication principles
 - Assembly language programming
 - Introduction to software engineering
