@@ -1,11 +1,15 @@
 - role: Google Get Ahead Program
   dates: July 2020 - August 2020
+  page-name: getahead
   
 - role: Microsoft Learn Student Ambassador
   dates: January 2020 - Present
+  page-name: mlsa
   
 - role: Code in Place
   dates: April 2020 - May 2020
+  page-name: codeinplace
   
 - role: Facebook Hackathon for Justice Participant
   dates: February 2020
+  page-name: fbhack
