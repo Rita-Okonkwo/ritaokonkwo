@@ -1,0 +1,10 @@
+<h2>Honors and Awards</h2>
+<div class="card-container">
+    {% for item in site.data.honors %}
+      <div class="card">
+        <div class="info">
+          <p class="title">{{ item.title }}</p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
