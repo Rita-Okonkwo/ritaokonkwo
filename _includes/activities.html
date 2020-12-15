@@ -1,11 +1,17 @@
 <h2>Activities and Leadership</h2>
 <div class="card-container">
     {% for item in site.data.activities %}
-    <div class="card">
+     {% if item.page-name %}
+    <a href="{{ site.url }}/projects/{{ item.page-name }}">
+    {% else %}
+    <a>
+    {% endif %}
+      <div class="card">
       <div class="info">
         <p class="title">{{ item.role }}</p>
         <p class="dates">{{ item.dates }}</p>
       </div>
     </div>
+    </a>
     {% endfor %}
   </div>
